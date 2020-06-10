@@ -19,6 +19,11 @@ fuck terror bill all my homies hate terror bill
 ## *jbtcontent.txt*
 - A list of email body pre-mades to spam with.
 
-# *The important one*
-## .env
+# The important one
+## *.env*
 - Has email username/pass
+
+# All the imports
+dotenv
+timeloop
+The rest are built in w/ Python.
